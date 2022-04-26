@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Max Cian&#39;s Space</title>
+    <link>https://hjcian.github.io/posts/</link>
+    <description>Recent content in Posts on Max Cian&#39;s Space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Apr 2022 23:38:38 +0800</lastBuildDate><atom:link href="https://hjcian.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testpost</title>
+      <link>https://hjcian.github.io/posts/testpost/</link>
+      <pubDate>Tue, 26 Apr 2022 23:38:38 +0800</pubDate>
+      
+      <guid>https://hjcian.github.io/posts/testpost/</guid>
+      <description>Javascript code snippets
+const name = &amp;#34;Max Cian&amp;#34; console.log(name) Golang code snippets
+name := &amp;#34;Max Cian&amp;#34; fmt.Println(name) </description>
+    </item>
+    
+  </channel>
+</rss>
